@@ -34,7 +34,3 @@
 
 ## Orientações e códigos das aulas da Prof Kizzy Terra
 [Página Inicial](https://kterra.github.io/Inteli-2025-1A/)
-Demos:
-    1. [Peixe jogável](https://kterra.github.io/Inteli-2024-1A/EXEMPLOS/exercicio_peixe/index.html)
-    2. [Dragão jogável(duas cenas)](https://github.com/kterra/Inteli-2024-1A/blob/main/EXEMPLOS/exercicio_dragao/duasCenas.html)
-    3. [Dragão jogável (uma cenas)](https://github.com/kterra/Inteli-2024-1A/blob/main/EXEMPLOS/exercicio_dragao/CenaUnica/oneScene.html)  
