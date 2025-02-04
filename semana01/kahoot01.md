@@ -27,17 +27,29 @@ e. Integer
 f. undefined
 
 5. Olhe o código na imagem. Qual opção abaixo responde corretamente?
+![q5](imgs/q5.jpg)
 
 6. Qual a saída do código?
+![q6](imgs/q6.jpg)
 
 7. Quero criar uma variável para guardar a quantidade de maçãs no meu carrinho de compras, qual opção abaixo está correta?
+a. var quantida de macas
+b. var quantidadeDeMacas;
+c. variavel quantidade de macas;
+d. var quantidade_de_maçãs;
 
 8. Qual opção abaixo responde corretamente?
+![q8](imgs/q8.jpg)
 
 9. Como podemos corrigir este código?
+![q9](imgs/q9.jpg)
 
 10. Qual a saída do código?
+![q10](imgs/q10.jpg)
 
 11. Qual resultado correto teremos...
+![q11](imgs/q11.jpg)
 
 12. O que teremos como retorno olhando a imagem?
+![q12](imgs/q12.jpg)
+
