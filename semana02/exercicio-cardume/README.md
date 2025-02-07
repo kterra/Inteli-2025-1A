@@ -14,11 +14,11 @@
 📌 Passo a Passo:
 
 1️⃣ Criar um grupo de peixes:
-No preload(), carregar duas imagens diferentes de peixe (exemplo: um azul e um vermelho).
-No create(), usar um laço for para gerar 5 peixes em posições aleatórias.
+- No preload(), carregar duas imagens diferentes de peixe (exemplo: um azul e um vermelho).
+- No create(), usar um laço for para gerar 5 peixes em posições aleatórias.
 
 2️⃣ Usar if/else para variar os peixes:
-Se o número do peixe (i do for) for par, carregar o peixe azul.
-Se for ímpar, carregar o peixe vermelho.
+- Se o número do peixe (i do for) for par, carregar o peixe azul.
+- Se for ímpar, carregar o peixe vermelho.
 
 3️⃣Criar variáveis peixesVerde e peixesLaranja: sempre que um peixe for criado, somar +1 à variável correspondente.
