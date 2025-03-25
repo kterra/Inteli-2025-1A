@@ -11,7 +11,7 @@ var config = {
 
 var game = new Phaser.Game(config);
 
-var peixinho, peixinho2;
+var peixinho;
 
 
 function preload() {
@@ -58,8 +58,8 @@ function create() {
 
 function update() {
 
-    //peixinho.x = this.input.x;
-    //peixinho.y = this.input.y;
+    peixinho.x = this.input.x;
+    peixinho.y = this.input.y;
 
  
 
